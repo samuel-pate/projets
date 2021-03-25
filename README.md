@@ -17,3 +17,32 @@ Voici l'ensemble de mes projets :
 * Features engineering
 * Comparaisons de modèles
 
+### Clustering des clients d'un site de e-commerce
+[Lien vers le projet](https://github.com/samuel-pate/clustering_clients)
+
+* Features engineering
+* Clustering par k-means
+* Etude des clusters
+
+### Classification automatique d'objets
+[Lien vers le projet](https://github.com/samuel-pate/classification_automatique)
+
+* Travail avec du texte (bag of words et word embedding)
+* Travail avec des images (descripteurs ORB et bag of visual words)
+* Clustering non supervisé
+* Classification supervisée par transfer learning (BERT et VGG16)
+
+### Scoring du risque de défaut de paiement
+[Lien vers le projet]()
+
+* Features engeneering
+* Gestion du déséquilibre des classes
+* Optimisation bayésienne de LightGBM
+* API accessible en ligne
+* Dashboard accessible en ligne
+
+### Préparation d'images dans le cloud
+[Lien vers le projet](https://github.com/samuel-pate/images_cloud)
+
+* Analyse en composante principales
+* Utilisation de Spark sur AWS EMR et S3
