@@ -33,11 +33,12 @@ Voici l'ensemble de mes projets :
 * Classification supervisée par transfer learning (BERT et VGG16)
 
 ### Scoring du risque de défaut de paiement
-[Lien vers le projet]()
+[Lien vers le projet](https://github.com/samuel-pate/scoring_dashboard)
 
 * Features engeneering
 * Gestion du déséquilibre des classes
 * Optimisation bayésienne de LightGBM
+* Interprétabilité (Shapley values)
 * API accessible en ligne
 * Dashboard accessible en ligne
 
